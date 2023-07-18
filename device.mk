@@ -155,10 +155,7 @@ PRODUCT_PACKAGES += \
     TetheringOverlayFleur \
     WifiOverlayFleur \
     SystemUIOverlayFleur \
-    SettingsOverlayFleur
-
-# Runtine Device Name Overlays
-PRODUCT_PACKAGES += \
+    SettingsOverlayFleur \
     FleurSettingsProviderOverlay \
     FleurpSettingsProviderOverlay \
     MielSettingsProviderOverlay \
