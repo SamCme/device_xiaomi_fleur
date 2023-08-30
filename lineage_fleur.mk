@@ -10,7 +10,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 PRODUCT_BRAND := Redmi
 PRODUCT_DEVICE := fleur
-PRODUCT_NAME := leaf_fleur
+PRODUCT_NAME := _fleur
 PRODUCT_MODEL := Redmi Note 11S 4G
 PRODUCT_MANUFACTURER := Xiaomi
 
