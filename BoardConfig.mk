@@ -61,7 +61,7 @@ BOARD_INCLUDE_DTB_IN_BOOTIMG := true
 BOARD_KERNEL_SEPARATED_DTBO := true
 
 TARGET_KERNEL_SOURCE := kernel/xiaomi/fleur
-TARGET_KERNEL_CONFIG := kernel/xiaomi/fleur/arch/arm64/configs/fleur_defconfig
+TARGET_KERNEL_CONFIG := fleur_defconfig
 
 # HWUI
 HWUI_COMPILE_FOR_PERF := true
